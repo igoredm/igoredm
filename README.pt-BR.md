@@ -75,9 +75,10 @@ Duas ferramentas para Windows que criei e mantenho fora do trabalho, onde explor
 
 | Período | Cargo | Empresa |
 |---|---|---|
-| ago 2024 — atual | Desenvolvedor Sênior | Banco do Nordeste (alocado) |
-| ago 2022 — ago 2024 | Desenvolvedor Pleno | Kaspper |
-| nov 2020 — ago 2022 | Analista de Desenvolvimento de Sistemas I | BluPay (fintech de pagamentos) |
+| ago 2024 — atual | Desenvolvedor Full Stack Sênior | Kaspper · alocado no Banco do Nordeste |
+| ago 2022 — ago 2024 | Desenvolvedor Full Stack Pleno | Kaspper |
+| jun 2021 — ago 2022 | Desenvolvedor de Software Júnior | Kaspper |
+| nov 2020 — jun 2021 | Analista de Desenvolvimento de Sistemas I | BluPay (fintech de pagamentos) |
 | ago 2020 — nov 2020 | Desenvolvedor Java Júnior | Kaspper |
 | ago 2019 — ago 2020 | Estagiário de Desenvolvimento | Kaspper |
 

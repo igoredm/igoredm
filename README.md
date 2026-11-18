@@ -75,9 +75,10 @@ Two Windows tools I created and maintain outside work, where I get to explore na
 
 | Period | Role | Company |
 |---|---|---|
-| Aug 2024 — now | Senior Software Developer | Banco do Nordeste (allocated) |
-| Aug 2022 — Aug 2024 | Mid-level Software Developer | Kaspper |
-| Nov 2020 — Aug 2022 | Software Developer | BluPay (payments fintech) |
+| Aug 2024 — now | Senior Full Stack Developer | Kaspper · contracted to Banco do Nordeste |
+| Aug 2022 — Aug 2024 | Mid-level Full Stack Developer | Kaspper |
+| Jun 2021 — Aug 2022 | Junior Software Developer | Kaspper |
+| Nov 2020 — Jun 2021 | Software Developer | BluPay (payments fintech) |
 | Aug 2020 — Nov 2020 | Junior Java Developer | Kaspper |
 | Aug 2019 — Aug 2020 | Software Development Intern | Kaspper |
 
