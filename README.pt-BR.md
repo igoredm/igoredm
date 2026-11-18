@@ -10,7 +10,7 @@
 
 Oi, eu sou o **Igor**, desenvolvedor Java sênior em **Jundiaí, SP**.
 
-Java é minha casa: **Spring Boot** por preferência, **Jakarta EE no Open Liberty** no trabalho atual. No front, **Angular** e **React** com **TypeScript**; **Python** quando o problema pede.
+Desenvolvedor Java com foco em **Spring Boot**; hoje trabalho com **Jakarta EE no Open Liberty**. No front-end, **Angular** e **React** com **TypeScript**, e **Python** quando o projeto pede.
 
 ### Stack
 

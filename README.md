@@ -10,7 +10,7 @@
 
 Hi, I'm **Igor**, a Senior Java Developer based in **Jundiaí, SP, Brazil**.
 
-Java is home: **Spring Boot** by choice, **Jakarta EE on Open Liberty** in my current work. On the front end, **Angular** and **React** with **TypeScript**; **Python** when the job calls for it.
+Java developer focused on **Spring Boot**; today I work with **Jakarta EE on Open Liberty**. On the front end, **Angular** and **React** with **TypeScript**, and **Python** when the project needs it.
 
 ### Tech stack
 
