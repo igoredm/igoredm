@@ -96,6 +96,7 @@ A role, a project, or just swapping notes on Windows internals and Java: find me
 
 <p>
   <a href="https://igoredm.com/?lang=en"><img src="https://img.shields.io/badge/Website-igoredm.com-4C8DFF?style=for-the-badge&labelColor=161B26" alt="Website"></a>
+  <a href="mailto:contato@igoredm.com"><img src="https://img.shields.io/badge/Email-contato%40igoredm.com-4C8DFF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=161B26" alt="Email: contato@igoredm.com"></a>
   <a href="https://www.linkedin.com/in/igoredm/"><img src="https://img.shields.io/badge/LinkedIn-igoredm-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B26" alt="LinkedIn"></a>
   <a href="https://instagram.com/igoredm"><img src="https://img.shields.io/badge/Instagram-igoredm-F472B6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161B26" alt="Instagram"></a>
   <img src="https://img.shields.io/badge/Discord-igoredm-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=161B26" alt="Discord: igoredm">
