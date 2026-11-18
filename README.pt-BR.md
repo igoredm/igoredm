@@ -1,16 +1,32 @@
 <p align="right"><a href="README.md">English</a> · <b>Português (BR)</b></p>
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Igor Ehlert Del Maschio, Desenvolvedor Java Sênior · Angular e React" width="100%">
+  <img src="assets/banner.svg" alt="Igor Ehlert Del Maschio, Desenvolvedor Full Stack Sênior · Java, Spring Boot, Angular e React" width="100%">
 </p>
 
 <p align="center">
   <a href="https://igoredm.com/?lang=pt"><img src="https://img.shields.io/badge/Portf%C3%B3lio-igoredm.com-F2B53A?style=for-the-badge&labelColor=18181A" alt="Portfólio · igoredm.com" height="40"></a>
 </p>
 
-Oi, eu sou o **Igor**, desenvolvedor Java sênior em **Jundiaí, SP**.
+Oi, eu sou o **Igor**, desenvolvedor Full Stack sênior em **Jundiaí, SP**. No trabalho é **Java** (Spring Boot e, hoje, Jakarta EE no Open Liberty) com **Angular** ou **React** no front, e **Python** quando encaixa. Fora dele, faço ferramentas para o Windows.
 
-Desenvolvedor Java com foco em **Spring Boot**; hoje trabalho com **Jakarta EE no Open Liberty**. No front-end, **Angular** e **React** com **TypeScript**, e **Python** quando o projeto pede.
+### Projetos
+
+<a href="https://windhawk.net/mods/nimbus-menu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pt/card-nimbus-dark.svg"><img src="assets/pt/card-nimbus-light.svg" width="100%" alt="Nimbus Menu: dock leve e menu Iniciar próprio para o Windows"></picture></a>
+
+<a href="https://windhawk.net/mods/nimbus-menu"><img src="assets/nimbus-start.webp" width="100%" alt="Nimbus Menu funcionando: o menu Iniciar aberto sobre a dock, com apps fixados e botões de energia"></a>
+
+<p align="center"><a href="https://windhawk.net/mods/nimbus-menu">Instalar pelo Windhawk</a> · <a href="https://github.com/igoredm/nimbus-menu">Ajuda e sugestões</a></p>
+
+<br>
+
+<a href="https://github.com/igoredm/pitwall"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pt/card-pitwall-dark.svg"><img src="assets/pt/card-pitwall-light.svg" width="100%" alt="Pitwall: monitor de hardware que mostra FPS e sensores num segundo monitor"></picture></a>
+
+<a href="https://github.com/igoredm/pitwall"><img src="assets/pitwall-widget.webp" width="100%" alt="Pitwall num segundo monitor: temperaturas da GPU, 143 FPS no meio, CPU e memória à direita"></a>
+
+<p align="center"><a href="https://github.com/igoredm/pitwall/releases/latest">Baixar</a> · <a href="https://github.com/igoredm/pitwall">Código-fonte</a></p>
+
+<br>
 
 ### Stack
 
@@ -53,43 +69,13 @@ Desenvolvedor Java com foco em **Spring Boot**; hoje trabalho com **Jakarta EE n
 ![AWS (S3, DynamoDB)](https://img.shields.io/badge/AWS%20%28S3%2C%20DynamoDB%29-18181A?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-18181A?style=flat&logo=git&logoColor=F05032)
 
-### Como eu trabalho
+### Trabalho
 
-- **Comunicação clara:** explico decisões técnicas para o negócio e transformo pedidos do negócio em tarefas precisas.
-- **Dono da entrega:** acompanho a funcionalidade da análise à implantação, até ela funcionar em produção.
-- **Time e code review:** rotina ágil, revisão honesta nos dois sentidos e código que o time inteiro consegue ler.
-- **Ensinar e documentar:** escrevo guias e ajudo os colegas a deixar o ambiente rodando.
-- **Depuração de ponta a ponta:** sigo o bug do front à API e ao banco até a causa ficar clara.
-- **Aprendizado rápido:** Kotlin, WebFlux, Open Liberty, DB2 no mainframe: aprendi cada um no próprio trabalho, com autonomia.
+**Hoje:** desenvolvedor Full Stack sênior na Kaspper, alocado no Banco do Nordeste, migrando microsserviços Java EE do WebSphere para o Open Liberty, com front-ends em React e TypeScript.<br>
+**Antes:** BluPay (Kotlin, Spring WebFlux e AWS numa fintech de pagamentos) e a própria Kaspper, onde entrei como estagiário em 2019.<br>
+**Formação:** Sistemas de Informação na ESPM.
 
-### Projetos pessoais
-
-Duas ferramentas para Windows que criei e mantenho fora do trabalho, onde exploro código nativo.
-
-| Projeto | O que é |
-|---|---|
-| **[Nimbus Menu](https://github.com/igoredm/nimbus-menu)** | Troca a barra de tarefas do Windows por uma dock leve em cada monitor, com menu Iniciar próprio. No catálogo oficial do Windhawk desde nov/2026.<br><sub>C++ · Win32 · Direct2D/DirectWrite · DWM</sub> |
-| **[Pitwall](https://github.com/igoredm/pitwall)** | Monitor de hardware que mostra FPS e sensores num segundo monitor, sem overlay e sem nada injetado no jogo. Código aberto, MIT.<br><sub>C# / .NET 10 · WebView2 · Angular 22 · PresentMon · NVML</sub> |
-
-### Experiência
-
-| Período | Cargo | Empresa |
-|---|---|---|
-| ago 2024 — atual | Desenvolvedor Full Stack Sênior | Kaspper · alocado no Banco do Nordeste |
-| ago 2022 — ago 2024 | Desenvolvedor Full Stack Pleno | Kaspper |
-| jun 2021 — ago 2022 | Desenvolvedor de Software Júnior | Kaspper |
-| nov 2020 — jun 2021 | Analista de Desenvolvimento de Sistemas I | BluPay (fintech de pagamentos) |
-| ago 2020 — nov 2020 | Desenvolvedor Java Júnior | Kaspper |
-| ago 2019 — ago 2020 | Estagiário de Desenvolvimento | Kaspper |
-
-Hoje trabalho na migração de microsserviços Java EE do IBM WebSphere para o Open Liberty, com APIs REST em JAX-RS e front-ends em React com TypeScript.
-
-### Formação e destaques
-
-- **Bacharelado em Sistemas de Informação**, ESPM · 2017 — 2020
-- **Prêmio no Hackathon Oracle na ESPM:** chatbot feito em equipe para aproximar os alunos da instituição.
-- **Maratona de Programação:** fase regional em 2017, 2018 e 2019.
-- **Idiomas:** português (nativo), inglês (intermediário), espanhol (básico).
+Explico decisões técnicas em palavras simples, acompanho a funcionalidade até ela funcionar em produção e escrevo os guias que o próximo vai precisar. Histórico completo em [igoredm.com](https://igoredm.com/?lang=pt) e no [LinkedIn](https://www.linkedin.com/in/igoredm/).
 
 ### Vamos conversar
 
